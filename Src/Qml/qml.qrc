@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Main.qml</file>
+        <file>View/Tab.qml</file>
+        <file>Component/About.qml</file>
+    </qresource>
+</RCC>
